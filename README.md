@@ -1,4 +1,4 @@
-## Contador de Clics
+# Contador de Clics
 Curso 'Aprende React Desde Cero FreeCodeCamp' impartida por Estefania Cassingena Navone.
 
 Aplicación contador de clics desarrollada con React.
